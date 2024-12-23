@@ -1,17 +1,19 @@
-# Hi there 👋, I'm Moazam Ali!
+# Hi 👋, I'm Moazam Ali!
 
-## 🔧 **About Me**
-Hello! I'm Moazam Ali, a passionate software engineering graduate who loves tackling challenges and building innovative software solutions. I hold a Bachelor's degree in Software Engineering from Hajvery University, and my journey has been shaped by a deep interest in programming and cybersecurity. During my cybersecurity training internship, I honed my skills in network security and threat detection, which complements my expertise in software development. Whether it's writing clean code, solving problems, or collaborating on exciting projects, I bring energy and dedication to everything I do.
+Recent Software Engineering graduate with expertise in Python, JavaScript, HTML, and CSS. Dedicated to creating innovative and efficient software solutions with a passion for cybersecurity and programming. Let’s connect and explore how I can contribute to your exciting projects! 🚀
 
-- 🏠 **Location**: Lahore, Pakistan
-- 📧 **Email**: moazamali2656@gmail.com
+- 📍 **Location**: Lahore, Pakistan
+- 📫 **How to reach me**: moazamali2656@gmail.com
 - 🔗 **GitHub**: [moazam50](https://github.com/moazam50)
 - 🌐 **LinkedIn**: [Moazam Ali](https://linkedin.com/in/moazam-ali-79859827a)
 
 ---
 
-## 🛠️ **Skills**
-- Python, JavaScript, HTML, CSS
+## 🛠️ **Languages and Tools**
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
 
 ---
 
