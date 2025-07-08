@@ -17,4 +17,4 @@ Recent Software Engineering graduate with expertise in Python, JavaScript, HTML,
 ---
 
 ## 🎓 **Education**
-**Bachelor in Software Engineering - Hajvery University**
+**Bachelor in Software Engineering**
